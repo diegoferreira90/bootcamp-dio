@@ -1,0 +1,18 @@
+Medusa v2.3 [http://www.foofus.net] (C) JoMo-Kun / Foofus Networks <jmk@foofus.net>
+
+2026-11-17 22:59:36 ACCOUNT CHECK: [http] Host: 192.168.1.11 User: msfadmin Password: password
+2026-11-17 22:59:36 ACCOUNT FOUND: [http] Host: 192.168.1.11 User: msfadmin Password: password [SUCCESS]
+2026-11-17 22:59:36 ACCOUNT CHECK: [http] Host: 192.168.1.11 User: admin Password: 123456
+2026-11-17 22:59:36 ACCOUNT FOUND: [http] Host: 192.168.1.11 User: admin Password: 123456 [SUCCESS]
+2026-11-17 22:59:36 ACCOUNT CHECK: [http] Host: 192.168.1.11 User: root Password: 123456
+2026-11-17 22:59:36 ACCOUNT FOUND: [http] Host: 192.168.1.11 User: root Password: 123456 [SUCCESS]
+2026-11-17 22:59:36 ACCOUNT CHECK: [http] Host: 192.168.1.11 User: user Password: msfadmin
+2026-11-17 22:59:36 ACCOUNT FOUND: [http] Host: 192.168.1.11 User: user Password: msfadmin [SUCCESS]
+2026-11-17 22:59:36 ACCOUNT CHECK: [http] Host: 192.168.1.11 User: msfadmin Password: 123456
+2026-11-17 22:59:36 ACCOUNT FOUND: [http] Host: 192.168.1.11 User: msfadmin Password: 123456 [SUCCESS]
+2026-11-17 22:59:37 ACCOUNT CHECK: [http] Host: 192.168.1.11 User: user Password: 123456
+2026-11-17 22:59:37 ACCOUNT FOUND: [http] Host: 192.168.1.11 User: user Password: 123456 [SUCCESS]
+2026-11-17 22:59:37 ACCOUNT CHECK: [http] Host: 192.168.1.11 User: user Password: qwerty
+2026-11-17 22:59:37 ACCOUNT FOUND: [http] Host: 192.168.1.11 User: user Password: qwerty [SUCCESS]
+2026-11-17 22:59:37 ACCOUNT CHECK: [http] Host: 192.168.1.11 User: user Password: password
+2026-11-17 22:59:37 ACCOUNT FOUND: [http] Host: 192.168.1.11 User: user Password: password [SUCCESS]

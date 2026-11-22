@@ -1,0 +1,15 @@
+Medusa v2.3 [http://www.foofus.net] (C) JoMo-Kun / Foofus Networks <jmk@foofus.net>
+
+2026-11-17 22:31:42 ACCOUNT CHECK: [smbnt] Host: 192.168.1.11 User: user Password: Welcome123
+2026-11-17 22:31:42 ACCOUNT CHECK: [smbnt] Host: 192.168.1.11 User: user Password: msfadmin
+2026-11-17 22:31:42 ACCOUNT CHECK: [smbnt] Host: 192.168.1.11 User: user Password: password
+2026-11-17 22:31:42 ACCOUNT CHECK: [smbnt] Host: 192.168.1.11 User: user Password: 123456
+2026-11-17 22:31:42 ACCOUNT CHECK: [smbnt] Host: 192.168.1.11 User: msfadmin Password: 123456
+2026-11-17 22:31:42 ACCOUNT CHECK: [smbnt] Host: 192.168.1.11 User: msfadmin Password: password
+2026-11-17 22:31:42 ACCOUNT CHECK: [smbnt] Host: 192.168.1.11 User: service Password: password
+2026-11-17 22:31:42 ACCOUNT CHECK: [smbnt] Host: 192.168.1.11 User: msfadmin Password: Welcome123
+2026-11-17 22:31:42 ACCOUNT CHECK: [smbnt] Host: 192.168.1.11 User: msfadmin Password: msfadmin
+2026-11-17 22:31:42 ACCOUNT FOUND: [smbnt] Host: 192.168.1.11 User: msfadmin Password: msfadmin [SUCCESS (ADMIN$ - Access Allowed)]
+2026-11-17 22:31:42 ACCOUNT CHECK: [smbnt] Host: 192.168.1.11 User: service Password: Welcome123
+2026-11-17 22:31:42 ACCOUNT CHECK: [smbnt] Host: 192.168.1.11 User: service Password: 123456
+2026-11-17 22:31:42 ACCOUNT CHECK: [smbnt] Host: 192.168.1.11 User: service Password: msfadmin
